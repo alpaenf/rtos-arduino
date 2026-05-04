@@ -25,7 +25,7 @@ Kedua task berjalan secara bersamaan menggunakan scheduler FreeRTOS tanpa blocki
 
 ## 🎥 Preview
 
-<img src="gif-demo.gif" width="400"/>
+<img src="https://github.com/alpaenf/rtos-arduino/blob/main/Uji%20Coba%20RTOS.gif" width="400"/>
 
 ---
 
